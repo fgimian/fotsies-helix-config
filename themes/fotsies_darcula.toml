@@ -1,0 +1,6 @@
+inherits = "darcula"
+
+"ui.menu" = { fg = "grey05", bg = "grey02" }
+"ui.popup" = { fg = "grey05", bg = "grey02" }
+"ui.bufferline" = { fg = "grey04", bg = "grey02" }
+"ui.bufferline.active" = { fg = "grey07", bg = "grey03" }

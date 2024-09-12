@@ -1,0 +1,14 @@
+inherits = "autumn"
+
+"ui.bufferline.active" = { bg = "my_gray3" }
+"ui.cursor.primary" = { bg = "my_white4" }
+"ui.cursorline.primary" = { bg = "my_gray2" }
+"ui.cursorline.secondary" = { bg = "my_gray2" }
+"ui.text.focus" = { fg = "my_white1", bg = "my_gray2" }
+"ui.virtual.indent-guide" = { fg = "my_gray1" }
+
+[palette]
+my_gray0 = "#282828" # Default Background
+my_gray1 = "#303030" # Ruler
+my_gray2 = "#373737" # Lighter Background (Used for status bars, line number and folding marks)
+my_gray3 = "#454545" # Selection Background

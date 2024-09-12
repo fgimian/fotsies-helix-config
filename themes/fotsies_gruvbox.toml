@@ -1,0 +1,12 @@
+inherits = "gruvbox"
+
+"ui.cursorline.primary" = { bg = "bg0_s" }
+"ui.selection" = { bg = "bg1" }
+"ui.selection.primary" = { bg = "bg2" }
+"ui.text.focus" = { fg = "fg1", bg = "bg1" }
+"ui.virtual.ruler" = { bg = "bg0_s" }
+"ui.virtual.indent-guide" = { fg = "bg0_s" }
+
+[palette]
+red0 = "#cc443d" # neutral
+red1 = "#fb6954" # bright

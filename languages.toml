@@ -1,0 +1,15 @@
+[[language]]
+name = "c-sharp"
+indent = { tab-width = 4, unit = "    " }
+auto-format = true
+
+[language.formatter]
+command = "dotnet-csharpier"
+
+[[language]]
+name = "go"
+auto-format = true
+formatter = { command = "gofumpt" }
+
+[language-server.rust-analyzer.config]
+check.command = "clippy"

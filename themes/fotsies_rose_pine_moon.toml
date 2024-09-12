@@ -1,0 +1,4 @@
+inherits = "rose_pine_moon"
+
+"ui.virtual.ruler" = { bg = "surface" }
+"ui.virtual.indent-guide" = { fg = "surface" }

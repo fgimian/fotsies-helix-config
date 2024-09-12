@@ -1,0 +1,10 @@
+inherits = "github_dark_dimmed"
+
+"ui.bufferline" = { fg = "fg.default", bg = "scale.gray.7" }
+"ui.bufferline.active" = { fg = "fg.onEmphasis", bg = "scale.gray.6" }
+"ui.cursor" = { bg = "fg.muted" }
+"ui.selection" = { bg = "scale.blue.7" }
+"ui.selection.primary" = { bg = "scale.blue.8" }
+"ui.statusline" = { fg = "fg.default", bg = "scale.gray.7" }
+"ui.text.focus" = { fg = "fg.default", bg = "scale.gray.7" }
+"ui.virtual.indent-guide" = { fg = "canvas.subtle" }

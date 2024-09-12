@@ -1,0 +1,9 @@
+inherits = "monokai_pro"
+
+"ui.cursor" = { bg = "base5" }
+"ui.cursor.primary" = { bg = "base5" }
+"ui.cursorline" = { bg = "base8x0c" }
+"ui.statusline" = { fg = "base8", bg = "base3" }
+"ui.text.focus" = { fg = "yellow", bg = "base3", modifiers= ["bold"] }
+"ui.virtual.ruler" = { bg = "base8x0c" }
+"ui.virtual.indent-guide" = { fg = "base8x0c" }

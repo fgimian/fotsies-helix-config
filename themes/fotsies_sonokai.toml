@@ -1,0 +1,11 @@
+inherits = "sonokai"
+
+"ui.bufferline.active" = { bg = "bg5" }
+"ui.cursor" = { bg = "grey" }
+"ui.text.focus" = { fg = "green", bg = "bg2" }
+"ui.virtual.ruler" = { bg = "bg1" }
+"ui.virtual.indent-guide" = { fg = "bg1" }
+
+[palette]
+bg0 = "#2d2a2e"
+bg1 = "#30323c"
